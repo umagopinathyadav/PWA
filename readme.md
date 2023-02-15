@@ -1,24 +1,19 @@
-# Tic-Tac-Toe
+Name: uma yadav
 
-This is a simple Tic-Tac-Toe game, built using HTML, CSS, and JavaScript. The game is a two-player game, in which each player takes turn to mark a 3x3 grid with their respective symbol (an "X" or an "O"). The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+Job Title: Full Stack Developer
 
-## Getting Started
+Experience:
 
-1. Download the project files from the repository.
-2. Open the `index.html` file in your browser.
-3. Start playing the game!
+• 5+ years of experience in developing web applications using HTML, CSS, JavaScript, and related frameworks
+• Proficient in developing and deploying single-page applications using React.js and Redux
+• Experienced in back-end development using Node.js, Express.js, and MongoDB
+• Proven expertise in using RESTful APIs
+• Skilled in front-end development using Angular.js and Bootstrap
+• Experienced in developing cross-platform mobile apps using React Native
+• Knowledgeable in using version control systems such as Git and SVN
+• Experienced in software testing and debugging
+• Familiar with Agile software development methodologies
 
-## Features
+Education:
 
-- Choose between two player mode or one player mode.
-- Play against the computer in one player mode.
-- Responsive design that works well on mobile devices.
-- Clean and modern UI design.
-- Leaderboard to track your progress.
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
+• Bachelor's Degree in Computer Science, University of California, Los Angeles
